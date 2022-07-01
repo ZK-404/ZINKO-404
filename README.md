@@ -18,8 +18,8 @@ pip install future
 
 cd $HOME 
 rm -rf SSB
-git clone https://github.com/Sarfraz-Ssb/SSB
+git clone https://github.com/ZK-404/ZINKO-404
 
-cd SSB
+cd ZINKO-404
 
 python SSB.py
